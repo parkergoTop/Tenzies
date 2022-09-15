@@ -9,8 +9,8 @@ body {
 
 
 .main-box{
-  width: 360px;
-  height: 379px;
+  width: 365px;
+  height: 498px;
    background-color:#0B2434;
    border-radius: 4px;
 
@@ -68,4 +68,15 @@ body {
     
 
 
+}
+
+.title {
+    color: white;
+    text-align: center;
+}
+
+.instructions{
+    color: #F5F5F5;
+    text-align: center;
+    margin-top: 0;
 }
